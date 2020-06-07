@@ -5,7 +5,7 @@ const ComponentsScreen = () => {
     const greeting = 'Hi there';
     const greeting2 = <Text> Hi 2</Text>;
     return <View>
-                <Text style={styles.textStyle}> This is components screen !</Text>
+                <Text style={styles.textStyle}> This is components screen !?</Text>
                 <Text style={styles.subHeaderStyle}>{greeting}</Text>
                 {greeting2}
             </View>;
