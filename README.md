@@ -18,3 +18,4 @@ Axios
 npm install axios
 
 
+npx expo-cli init xxx // generate a new project using expo cli
